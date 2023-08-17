@@ -1,13 +1,13 @@
-# virtualcom
+## virtualcom
 create virtual comports and send data through them and display the data in the terminal 
 
-# Specs
+### Specs
 
 Language - Python
 Tool used for creating virtual comports - socat (macOS)
 Library for serial communication - pyserial 
 
-# Steps to run 
+### Steps to run 
 
 1. Run this command in the terminal
 ```
