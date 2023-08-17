@@ -24,9 +24,10 @@ python3 sender.py
 python3 receiver.py
 ```
 
-#### Code and Terminal Screenshots 
+#### Code and Terminal Screenshots ![virtualcom](https://github.com/arpitingle/virtualcom/assets/37828045/413b25e1-3d30-450c-962d-c0159e35e8f7)
 
-<img width="1512" alt="Screenshot 2023-08-17 at 11 35 06 PM" src="https://github.com/arpitingle/virtualcom/assets/37828045/25dadacc-8c55-4db8-b9fe-09e45e2150f1">
+
+
 
 
    
