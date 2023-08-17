@@ -14,7 +14,7 @@ create virtual comports and send data through them and display the data in the t
 socat -d -d pty,raw,echo=0 pty,raw,echo=0
 ```
 
-2. Open a new terminal window and naviage the directory where the scripts are located and run this command
+2. Open a new terminal window and navigate the directory where the scripts are located and run this command
 ```
 python3 sender.py
 ```
