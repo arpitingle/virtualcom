@@ -26,5 +26,7 @@ python3 receiver.py
 
 #### Code and Terminal Screenshots 
 
+<img width="1512" alt="Screenshot 2023-08-17 at 11 35 06 PM" src="https://github.com/arpitingle/virtualcom/assets/37828045/25dadacc-8c55-4db8-b9fe-09e45e2150f1">
+
 
    
