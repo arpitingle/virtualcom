@@ -19,7 +19,7 @@ socat -d -d pty,raw,echo=0 pty,raw,echo=0
 python3 sender.py
 ```
 
-3. Open a new terminal window and naviage the directory where the scripts are located and run this command
+3. Open a new terminal window and navigate the directory where the scripts are located and run this command
 ```
 python3 receiver.py
 ```
