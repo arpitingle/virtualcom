@@ -4,7 +4,7 @@ create virtual comports and send data through them and display the data in the t
 ### Specs
 
 - Language - Python
-- Tool used for creating virtual comports - socat (macOS)
+- Tool used for creating virtual comports - socat (unix)
 - Library for serial communication - pyserial 
 
 ### Steps to run 
